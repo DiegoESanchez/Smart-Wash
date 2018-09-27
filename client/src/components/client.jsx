@@ -1,9 +1,9 @@
 import React from 'react';
 
-class AddGrocery extends React.Component {
+class Client extends React.Component {
   constructor(props) {
     super(props);
-    this.state = { 
+    this.state = {
     }
   }
 
@@ -12,5 +12,4 @@ class AddGrocery extends React.Component {
   }
 }
 
-export default AddGrocery;
-
+export default Client;
