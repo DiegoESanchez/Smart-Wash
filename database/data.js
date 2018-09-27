@@ -8,10 +8,3 @@ module.exports = {
                 {id: 4, quantity: 1, description: "iced coffee"}
               ]
 };
-
-
-
-
-
-
-
